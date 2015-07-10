@@ -12,3 +12,5 @@ rvm:
   - rbx-2
 
 cache: bundler
+
+script: bundle exec rspec spec
